@@ -19,3 +19,8 @@ python -m pip install -r requirements.txt
 ````bash
 gcloud init
 ````
+
+## Run
+````bash
+python app.py
+````
